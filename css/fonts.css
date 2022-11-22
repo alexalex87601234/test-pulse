@@ -1,0 +1,11 @@
+@font-face { 
+  font-family: "Museo";
+  src: url("../fonts.MuseoSansCyrl500/MuseoSansCyrl500.eot");
+  src: url("../fonts.MuseoSansCyrl500/MuseoSansCyrl500.eot?#iefix")format("embedded-opentype"),
+  url("../fonts.MuseoSansCyrl500/MuseoSansCyrl500.woff") format("woff"),
+  url("../fonts.MuseoSansCyrl500/MuseoSansCyrl500.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+
